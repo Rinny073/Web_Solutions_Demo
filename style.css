@@ -1,0 +1,100 @@
+body
+{
+	height:100%;
+	width:100%;
+}
+
+.first
+{
+	background: url("coding1.jpg")no-repeat center center fixed;
+	background-size: cover;
+	opacity: 0.95;
+	padding:100px;
+}
+h2,p
+{
+	color: #FFFFFD;
+	padding:10px;
+}
+.btn
+{
+	border-radius: 0px;
+	padding:10px 20px;
+	background-color: #49464C;
+	border-color: #A5A296;
+}
+.second
+{
+	background-color: #E3E3E3;
+	height:30vh;
+}
+.fizz>h2
+{
+	color:black;
+	padding: 20px;
+}
+.col-6>p
+{
+	color:black;
+}
+.third
+{
+	background-color: #181D1D;
+}
+.card-group
+{
+	 width:120vh;
+	 margin: 0 auto; /* Added */
+     float: none; /* Added */
+     padding:20px;
+}
+.card
+{ 
+	margin:15px;
+	height: 60vh;
+	border:2px solid #181D1D;
+}
+.card-img-top
+{
+	height:23vh;
+	object-fit: cover;
+}
+.card-text
+{
+	text-align: center;
+	color:black;
+}
+.element-design>h2
+{
+	padding-top:30px;
+	color:black;
+}
+.element-design>p
+{
+	padding:20px 10px 20px 10px;
+	color:black;
+}
+.bg1
+{
+	background-color: #4A91ED;
+}
+.bg2
+{
+	background-color: #181D1D;
+}
+.bg1>h2
+{
+	padding:30px;
+}
+.bg1>p
+{
+	color:white;
+}
+.last{
+	background-color: black;
+	height:10vh;
+}
+.last>p
+{
+	padding:25px;
+}
